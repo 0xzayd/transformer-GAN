@@ -1,7 +1,9 @@
 # Vision Transformer only GAN (Gen and Discr) - Pytorch
 
 ## 1. Related work:
-	Original paper: Jiang, Yifan, Shiyu Chang, and Zhangyang Wang. "Transgan: Two transformers can make one strong gan." arXiv preprint arXiv:2102.07074 (2021). [TransGAN: Two Transformers Can Make One Strong GAN](https://arxiv.org/abs/2102.07074)
+	Original paper: Jiang, Yifan, Shiyu Chang, and Zhangyang Wang. "Transgan: Two transformers can make one strong gan." arXiv preprint arXiv:2102.07074 (2021). 
+	
+[TransGAN: Two Transformers Can Make One Strong GAN](https://arxiv.org/abs/2102.07074)
     
  Code inspired from [TransGAN](https://github.com/VITA-Group/TransGAN)
 
