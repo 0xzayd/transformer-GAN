@@ -24,7 +24,7 @@
 ```bash
 pip install -r requirements.txt
 ```
-Notice: Python version = 3.6
+Python version >= 3.6
 
 ## 6. Training
 ```bash
